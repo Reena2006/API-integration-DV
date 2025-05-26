@@ -48,3 +48,16 @@ This script connects to the OpenWeatherMap API and retrieves the 5-day weather f
 
 ```bash
 pip install requests matplotlib
+
+## 2️⃣ Replace the API key in the script:
+
+API_KEY = 'd876635fa69826e276932069ab806329'
+⚠️ You must get your API key from https://openweathermap.org/api
+
+## 3️⃣ Run the Python script:
+
+python task1_weather_plot.py
+
+## ✅ Outcome
+
+
