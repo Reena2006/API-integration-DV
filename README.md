@@ -57,3 +57,4 @@ The plot will be shown on screen and saved as weather_forecast.png.
 
 ✅ Outcome
 
+![Image](https://github.com/user-attachments/assets/9e446141-829c-4229-a861-9b1bd33673b0)
