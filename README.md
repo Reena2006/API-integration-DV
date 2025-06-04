@@ -53,7 +53,7 @@ Copy code
 python task1_weather_plot.py
 The plot will be shown on screen and saved as weather_forecast.png.
 
-📊 Output Preview
+
 
 ✅ Outcome
 
